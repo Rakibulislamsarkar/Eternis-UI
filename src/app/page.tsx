@@ -9,6 +9,7 @@ import {
   PageHeaderHeading,
 } from "@/components/global/page-header"
 import { Button } from "@/components/ui/button"
+import { CardDemo } from "@/components/global/cards"
 
 export default function IndexPage() {
   return (
@@ -55,6 +56,7 @@ export default function IndexPage() {
           </section>
           <section className="hidden md:block [&>div]:p-0">
             {/* WIP: add demos here */}
+            <CardDemo />
           </section>
         </div>
       </div>

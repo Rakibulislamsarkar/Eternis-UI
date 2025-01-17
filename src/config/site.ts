@@ -1,9 +1,9 @@
 export const siteConfig = {
     name: "eternis/ui",
-    url: "/",
+    url: "https://github.com/Rakibulislamsarkar/Eternis-UI",
     ogImage: "https://ui.shadcn.com/og.jpg",
     description:
-      "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+      "UI kit to make beautiful, animated interfaces, faster. Open-source and customizable.",
     links: {
       twitter: "https://x.com/Rakibul1019",
       github: "https://github.com/Rakibulislamsarkar/Eternis-UI",
