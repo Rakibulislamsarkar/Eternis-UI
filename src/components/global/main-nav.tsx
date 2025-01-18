@@ -40,18 +40,6 @@ export function MainNav() {
         >
           Components
         </Link>
-
-        <Link
-          href="/themes"
-          className={cn(
-            "transition-colors hover:text-foreground/80",
-            pathname?.startsWith("/themes")
-              ? "text-foreground"
-              : "text-foreground/80"
-          )}
-        >
-          Themes
-        </Link>
         <Link
           href="/colors"
           className={cn(
