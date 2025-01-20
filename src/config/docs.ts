@@ -17,7 +17,7 @@ export const docsConfig: DocsConfig = {
     },
     {
       title: "Components",
-      href: "/docs/components/headers",
+      href: "/docs/content/components/headers",
     },
     {
       title: "Themes",
@@ -49,59 +49,59 @@ export const docsConfig: DocsConfig = {
       items: [
         {
           title: "Headers",
-          href: "/docs/components/headers",
+          href: "/docs/content/components",
           items: [],
         },
-        {
-          title: "Heroes",
-          href: "/docs/components/heroes",
-          items: [],
-        },
-        {
-          title: "Cases",
-          href: "/docs/components/cases",
-          items: [],
-        },
-        {
-          title: "Feature",
-          href: "/docs/components/feature",
-          items: [],
-        },
-        {
-          title: "CTAs",
-          href: "/docs/components/ctas",
-          items: [],
-        },
-        {
-          title: "Stats",
-          href: "/docs/components/stats",
-          items: [],
-        },
-        {
-          title: "Pricing",
-          href: "/docs/components/pricing",
-          items: [],
-        },
-        {
-          title: "FAQs",
-          href: "/docs/components/faqs",
-          items: [],
-        },
-        {
-          title: "Blogs",
-          href: "/docs/components/blogs",
-          items: [],
-        },
-        {
-          title: "Contacts",
-          href: "/docs/components/contacts",
-          items: [],
-        },
-        {
-          title: "Footers",
-          href: "/docs/components/footers",
-          items: [],
-        },
+        // {
+        //   title: "Heroes",
+        //   href: "/docs/content/components/heroes",
+        //   items: [],
+        // },
+        // {
+        //   title: "Cases",
+        //   href: "/docs/content/components/cases",
+        //   items: [],
+        // },
+        // {
+        //   title: "Feature",
+        //   href: "/docs/content/components/feature",
+        //   items: [],
+        // },
+        // {
+        //   title: "CTAs",
+        //   href: "/docs/components/ctas",
+        //   items: [],
+        // },
+        // {
+        //   title: "Stats",
+        //   href: "/docs/components/stats",
+        //   items: [],
+        // },
+        // {
+        //   title: "Pricing",
+        //   href: "/docs/components/pricing",
+        //   items: [],
+        // },
+        // {
+        //   title: "FAQs",
+        //   href: "/docs/components/faqs",
+        //   items: [],
+        // },
+        // {
+        //   title: "Blogs",
+        //   href: "/docs/components/blogs",
+        //   items: [],
+        // },
+        // {
+        //   title: "Contacts",
+        //   href: "/docs/components/contacts",
+        //   items: [],
+        // },
+        // {
+        //   title: "Footers",
+        //   href: "/docs/components/footers",
+        //   items: [],
+        // },
       ],
     },
   ],
