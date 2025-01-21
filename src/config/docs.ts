@@ -17,7 +17,7 @@ export const docsConfig: DocsConfig = {
     },
     {
       title: "Components",
-      href: "/docs/content/components/headers",
+      href: "/docs/content/components",
     },
     {
       title: "Themes",
