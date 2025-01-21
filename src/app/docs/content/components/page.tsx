@@ -11,7 +11,7 @@ export default function ComponentsPage() {
           <p>Select a component from the sidebar to view its details</p>
         </div>
       }
-      code={`// Component code will appear here when selected`}
+      code={`// code`}
     />
   )
 }
